@@ -1,0 +1,9 @@
+const renderPage = {
+  init() {
+    
+  },
+
+
+};
+
+

@@ -1,0 +1,15 @@
+a:hover {
+  text-decoration: none;  
+}
+
+.bs-header {
+  font-size: 20px;
+  color: #cdbfe3;
+  text-shadow: 0 1px 0 rgba(0,0,0,.1);
+  background-image: linear-gradient(to bottom,#563d7c 0,#6f5499 100%);
+ }
+
+.bs-header h1 {
+  margin-top: 0;
+  color: #FFF;
+ }
